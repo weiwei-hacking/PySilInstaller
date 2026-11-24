@@ -2,7 +2,7 @@
 
 # PySilInstaller
 
-**Auto latest python silent installer.**
+**Auto silent python installer.**
 
 [![License](https://img.shields.io/github/license/weiwei-hacking/PySilInstaller?style=flat-square)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/weiwei-hacking/PySilInstaller)](https://github.com/weiwei-hacking/PySilInstaller/releases)
